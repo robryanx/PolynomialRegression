@@ -1,0 +1,11 @@
+{
+    "name": "robryanx/polynomial-regression",
+    "description": "A PHP Regression Class",
+    "minimum-stability": "stable",
+    "license": "GPL",
+    "autoload": {
+        "psr-4": {
+            "PolynomialRegression\\": "src/"
+        }
+    }
+}
